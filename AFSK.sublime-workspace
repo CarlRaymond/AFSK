@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng",
+				"ng-app	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 429.0,
+		"history":
+		[
+			"fdas"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carl/Documents/Arduino/AFSK/generator/generate.py",
+		"/Users/carl/Documents/jquery.cardswipe/README.md",
+		"/Users/carl/Documents/jquery.cardswipe/Scan samples",
+		"/Users/carl/Documents/chosen/coffee/lib/abstract-chosen.coffee",
+		"/Users/carl/Documents/chosen/coffee/lib/select-parser.coffee",
+		"/Users/carl/Documents/chosen/public/index.html",
+		"/Users/carl/Documents/chosen/coffee/chosen.jquery.coffee",
+		"/Users/carl/Documents/chosen/coffee/chosen.proto.coffee",
+		"/Users/carl/Documents/chosen/public/chosen.css",
+		"/Users/carl/Documents/chosen/sass/chosen.scss",
+		"/Users/carl/Documents/chosen/Gruntfile.coffee",
+		"/Users/carl/Documents/chosen/public/chosen.jquery.js",
+		"/Users/carl/Documents/Arduino/libraries/WiiChuck/WiiChuck.h",
+		"/Users/carl/.gitignore",
+		"/Users/carl/Documents/Arduino/Tetris_WS2801/Tetris_WS2801.ino",
+		"/Users/carl/Documents/Arduino/Tetris_WS2801/.gitignore",
+		"/Users/carl/projects/angularjs/first/test.html",
+		"/Users/carl/Documents/Tetris_WS2801/Tetris_WS2801.ino",
+		"/Users/carl/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/carl/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chosen-choice",
+			"search-choi",
+			"aria-live",
+			"search-choice-close",
+			"application",
+			"search-choice",
+			"chosen-select",
+			"chosen-results",
+			"contact-chosen-results",
+			"search-choice-close",
+			"Remove",
+			"aria-label",
+			"activedesc",
+			"no-results",
+			"aria-live",
+			"hosen-choices",
+			"button",
+			"role",
+			"aria-role",
+			"group",
+			"aria-label",
+			"search_text",
+			"li",
+			"aria-selected",
+			"@selected_item.id",
+			"activedesc",
+			"@selected_item",
+			"chosen-single",
+			"result-selected",
+			"result_selected",
+			"result_clear_highlight",
+			"highlight",
+			"li",
+			"'li",
+			"aria-actived",
+			"aria-selected",
+			".chosen-single abbr",
+			".chosen-single",
+			"abbr",
+			"search-choice-close",
+			"<abbr",
+			"@search_field",
+			"activate_field",
+			"open",
+			"aria-active",
+			"li",
+			"labelledby",
+			"# TODO",
+			"find(",
+			"# TODO",
+			"<input",
+			"highlighted",
+			"select_to_array",
+			"chosen-results",
+			"chosen-choices",
+			"ul",
+			"\"ul",
+			"'ul",
+			"\"ul\"",
+			"createElement",
+			"include_option_in_results",
+			"update_results_content",
+			"results_option_build",
+			"results_build",
+			"build",
+			"results_option_build",
+			"update_results_content",
+			"results_build",
+			"level"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AFSK.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
