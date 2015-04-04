@@ -1,15 +1,19 @@
+'''
+Generates a .wav file with 10 seconds of a pure sine wave at a hard-coded frequency. 
+'''
+
 import math;
 import struct;
 import wave;
 
-SAMPLE_RATE = 44100;
+SAMPLE_RATE = 96000;
 MAX_VALUE = 32767;
 CHANNELS = 1;
 
-FREQ_HZ = 2200;
+FREQ_HZ = 1200;
 FREQ_RAD = FREQ_HZ * 2 * math.pi;
 
-sinewave = wave.open('sine-{0}.wav'.format(FREQ_HZ), 'w');
+sinewave = wave.open('sine-{0}-96000.wav'.format(FREQ_HZ), 'w');
 sinewave.setnchannels(1);
 sinewave.setsampwidth(2);
 sinewave.setframerate(SAMPLE_RATE);

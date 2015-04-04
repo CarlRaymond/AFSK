@@ -6,11 +6,10 @@ import struct
 import wave
 
 class NrziAudio:
-	MARK_HZ = 2200
-	SPACE_HZ = 1200
+	MARK_HZ = 1200
+	SPACE_HZ = 2200
 
-
-	SAMPLE_RATE = 44100
+	SAMPLE_RATE = 96000
 
 	def __init__(self, filename, bitsPerSecond):
 		self.filename = filename
